@@ -1,0 +1,56 @@
+body
+{
+	background-image: url(background1.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat:
+	
+}
+
+b
+{
+	background-color: blue;
+	color: white;
+	font-family: arial;
+	font-size: 32pt;
+}
+
+p
+{
+	background-color: blue;
+	color: white;
+	font-family: arial;
+	font-size: 20pt;
+}
+
+body.profile
+{
+	color: red;
+}
+
+a
+{
+	background-color: white;
+	color: violet;
+}
+
+a:hover
+{
+	background-color:violet;
+	color:black;
+}
+
+p.websites
+{
+	background-color: blue;
+	color: white;
+	font-family: arial;
+	font-size: 14pt;
+}
+
+p.youtube
+{
+	background-color: red;
+	color: white;
+	font-family: arial;
+	font-size: 14pt;
+}
